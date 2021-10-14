@@ -1,0 +1,38 @@
+{
+  "name": "mini-project-pdf",
+  "version": "1.0.0",
+  "description": "One of our tasks at the moment is to convert a text document to a PDF file. There are a few requirements (see below). The PDF generation should be done using NodeJS (we will use it either on our frontend and/or on our backend, both of which are written JavaScript).",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest --watch --verbose",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiasco-gmbh/mini-project-pdf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fiasco-gmbh/mini-project-pdf/issues"
+  },
+  "homepage": "https://github.com/fiasco-gmbh/mini-project-pdf#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.12.2",
+    "http": "0.0.1-security",
+    "jspdf": "^2.4.0",
+    "multer": "^1.4.3",
+    "nodemon": "^2.0.13",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.1.6"
+  },
+  "devDependencies": {
+    "http-errors": "^1.8.0",
+    "jest": "^27.2.4",
+    "supertest": "^6.1.6"
+  }
+}

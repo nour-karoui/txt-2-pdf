@@ -1,0 +1,206 @@
+                                 CORP GMBH
+
+                                ARNDT ABELE
+                       AUF DER HALDE, 45612, STADTNA
+                       0715111223, INFO@MEIN-MAIL.DE
+
+K O S T E N V O R A N S C H L A G   NR  FIASCO                   21.07.2021*
+
+KUNDE       HERR
+AKTENZEICH  FIASCO                      SCHADENART  KOSTENVORANSCHLA
+FABRIKAT    VW                    TRANSPORTER T6(SG)    MULTIVAN TRENDLINE
+FZ-IDENT-NR WV2ZWWWWWWWWWWWWW     AMTL KZ S-WW 1234     TYP-CODE    06 T5 42
+
+ZUL DATUM   17.02.2005
+REP-DAUER   6
+
+AUSFUEHRUNG AB 01.2016            SCHIEBETUER R         FRONTSCHEIBE HZB
+            GLAS-SD V ELEKTRISCH  A-SPIEGEL ASPH        ZUSATZTUERDICHTUNG
+            INSTR-TAFEL STD PLUS  ZUSATZHEIZUNG         ZENTRALVERRIEGELUNG
+            FENSTERHEBER ELEKTR   REGENSENSOR           KLIMAAUTOMAT 1-ZONE
+            AUSSENSPIEGEL ELEKTR  8-LAUTSPR-SYSTEM      RADIO "COMP COLOUR"
+            USB/AUX ANSCHLUSS     HECKSCHEIBENWISCHER   BEZUEGE STOFF
+            3ER SITZBANK 2.REIHE  ANHAENGEVORRICHTUNG   SONNENSCHUTZROLLO
+            GENERATOR 180A        STOP-START-ANLAGE     1968CCM 110KW
+            GETRIEBE 6-GANG       LEDERLENKRAD          FAHRER-/BEIF AIRBAG
+            215/65 R16C 8PR       FELGE 6.5 J X 16 ALU  FREISPRECHEINRICHTG
+            ABGASNORM EURO 6      KOPF-/SEITENAIRBAG V  BODENBELAG -TEPPICH-
+            RADSTAND 3000 MM      KOMFORTSITZE V        STOSSF IN WAGENFARBE
+            ZUL GESAMTGEW 3000KG
+----------------------------------------------------------------------------
+
+A R B E I T S L O H N   ZEITBASIS   10 AW=1 STD  PREIS/KL 1 = 50.10  EUR/STD
+                                                 PREIS/KL 2 = 60.20  EUR/STD
+                                                 PREIS/KL 3 = 70.30  EUR/STD
+                                                 PREIS/KL 5 = 80.40  EUR/STD
+
+ARB.POS.NR/  INSTANDSETZUNGS-/EINZEL-/VERBUNDARBEITEN   KL      AW    ARB.-
+LEIT-NR                                                               PREIS
+
+55 22 19 00  DECKEL V AUS-/EINBAUEN                      2       7    42.14
+             UMFASST: DECKEL EINSTELLEN
+57 51 19 00  TUER V R AUS-/EINBAUEN                      2       4    24.08
+70 59 19 00  TUERVERKLEIDUNG V R AUS-/EINBAUEN           2       4    24.08
+64 40 19 50  TUERFENSTERSCHEIBE V R AUS-/EINBAUEN        2       2    12.04
+             (TUERVERKLEIDUNG AUSGEBAUT)
+64 49 19 50  FENSTERSCHACHTABDICHTUNG I R AUS-/EINB      2       1     6.02
+             (TUERVERKLEIDUNG AUSGEBAUT)
+58 65 19 06  SCHIEBETUER R AUS-/EINBAUEN                 2       5    30.10
+             UMFASST: TUERFESTSTELLER AUS-EIN
+58 65 55 53  SCHIEBETUER R ERSETZEN                      2      25   150.50
+             (SCHIEBETUER AUSGEBAUT)
+             UMFASST: AUS-/EINBAUEN SAEMTLICHER TEILE
+             UND SCHIEBETUER EINSTELLEN
+
+1482         TUER V R INSTANDSETZEN                                   50.00*
+
+HAGEL-SYSTEM-FORMEL = Hagel-Expert
+
+0471         KLAPPE V SANFT INSTANDSETZ.                 5       7H   56.28
+9997         FINISH-ARBEITEN PRO Bauteil                 5       3H   24.12
+             ---------------------------------------------------------------
+
+51 01 75 00) KAROSSERIETEIL HOHLRAUM KONSERVIEREN        3       2    14.06
+51 01 75 50  SCHIEBETUER R HOHLRAUM KONSERVIEREN         3       1     7.03
+             (VERBUNDARBEIT)
+----------------------------------------------------------------------------
+
+L A C K I E R U N G     (LACKIERZEIT SYSTEM VW)
+ZEITBASIS  10 AW=1 STD       PREIS = 100.00  EUR/STD
+
+ARB.POS.NR/   ARBEITSGANG   2-SCHICHT-UNI                       AW    ARB.-
+LEIT-NR                                                               PREIS
+
+58 65 61 10  SCHIEBETUER R        NEUTEILLACK S1                21   210.00
+57 51 79 03  TUER V R             REPARATURLACK S3              16   160.00
+51 01 71 13  VORBEREITUNGSARBEIT ZUR LACKIERUNG                 19   190.00
+             NEUTEIL S1 METALL
+             (TEIL/E EINGEBAUT)
+----------------------------------------------------------------------------
+
+E R S A T Z T E I L E                     PREISSTAND      : 01.07.2021 / 01
+
+LEIT-NR         BEZEICHNUNG          TEILE-NR                         PREIS
+
+1782            SCHIEBETUER R         7LA 843 108 B                  832.00
+----------------------------------------------------------------------------
+
+S O N S T I G E S
+
+LEIT-NR      BEZEICHNUNG                                              PREIS
+
+0471         KLAPPE V             AUS-/EINBAUEN
+----------------------------------------------------------------------------
+
+
+
+
+
+   Z U S A M M E N F A S S U N G                             EUR        EUR
+   -----------------------------
+
+   A R B E I T S L O H N   ZEITBASIS   10 AW = 1 STD
+     GESAMT KL 2          48 AW  X   60.20  EUR/STD       288.96
+     GESAMT KL 5          10 AW  X   80.40  EUR/STD        80.40
+     FIXLOHN                                               50.00
+   GESAMTSUMME ARBEITSLOHN .....................................     419.36
+
+   N E B E N K O S T E N
+     HOHLRAUMKONSERV.
+       LOHN   KL 3         3 AW  X   70.30  EUR/STD        21.09
+      MATERIAL                                             55.00
+   GESAMTSUMME NEBENKOSTEN .....................................      76.09
+
+   L A C K I E R U N G     ZEITBASIS   10 AW = 1 STD
+     GESAMT               56 AW  X  100.00  EUR/STD       560.00
+   GESAMTSUMME LACKIERUNG INKL MATERIAL ........................     560.00
+
+   E R S A T Z T E I L E                                  832.00
+     KLEINERSATZTEILE (  2.0%)                             16.64
+   GESAMTSUMME ERSATZTEILE .....................................     848.64
+
+   R E P A R A T U R K O S T E N   OHNE MWST....................   1 904.09
+   -----------------------------------------                     ----------
+     MWST 19.00 %                                                    361.78
+
+   R E P A R A T U R K O S T E N   MIT MWST.....................   2 265.87
+
+
+ERLAEUTERUNGEN:
+E-TEILE-PREISE=UPE D HERST/IMPORT      * = ANWENDERANGABEN
+E-TEILE-NR NICHT UNBEDINGT BST-NR      KN = KEINE ERSATZTEIL-/ARB-POS-NR
+MODELL-SPEZIF NACH FZ-IDENT-NR         H = HAGEL-SYSTEM-FORMEL
+)=ZEITANTEILE IN ANDERER POS ENTH      ZAX=ZEITERHEBUNG DURCH AUDATEX
+LIZENZ = APWCORP
+27.07.2021
+
+---
+
+                               SYSTEM AUDATEX                  BLATT     1
+                                 CORP GMBH
+
+                                ARNDT ABELE
+                       AUF DER HALDE, 45612, STADTNA
+                       0715111223, INFO@MEIN-MAIL.DE
+
+K O N T R O L L B L A T T   NR  FIASCO                           21.07.2021*
+
+KUNDE       HERR
+AKTENZEICH  FIASCO                      SCHADENART  KOSTENVORANSCHLA
+FABRIKAT    VW                    TRANSPORTER T6(SG)    MULTIVAN TRENDLINE
+FZ-IDENT-NR WV2ZWWWWWWWWWWWWW     AMTL KZ S-WW 1234     TYP-CODE    06 T6 42
+
+ZUL DATUM   17.02.2005
+REP-DAUER   6
+----------------------------------------------------------------------------
+KD-NR / SV-NR            : 349988           APWCORP   CLASSDIRECT  REL 20.07
+                                                     VERSIONS-NR: 50.2007.01
+
+AUSWERTUNGS-DATUM        : 27.07.2021
+KALKULATIONS-DATUM       : 21.07.2021
+
+AV-CODES
+- AV UEBER FZ-IDENT-NR   : A4 B3 C1 C4 C8 E3 E6 F1 G1 G3 G4 G6 G7 H2 H4 H6
+                           I8 J3 K7 L8 M1 M9 N9 O8 P4 Q3 Q6 R2 S3 U7 V3 V5
+                           V7 W2 W4 X1 X4 Z8
+- AUSFUEHRUNGSVARIANTEN  : A4 B3 C1 C4 C8 E3 E6 F1 G1 G3 G4 G6 G7 H2 H4 H6
+                           I8 J3 K7 L8 M1 M9 N9 O8 P4 Q3 Q6 R2 S3 U7 V3 V5
+                           V7 W2 W4 X1 X4 Z8
+
+ERSATZTEILE / LACKIERUNG
+- REP-ART/LEIT-NR/INFO   : N  0471 EL / N  1482 LO / N  1520 LO / D  0471 04
+                           H  1782 LO
+- HAGEL-SYSTEM-FORMEL    : Hagel-Expert
+
+LOHNFAKTOREN
+- ZEITBASIS              :   10 AW=1 STD
+- MECH/SPENGLER          :   50.10  EUR/STD       60.20  EUR/STD
+                             70.30  EUR/STD       80.40  EUR/STD
+- LACKIERER  -HERST      :  100.00  EUR/STD
+
+RANDFAHNEN-CODES
+- AKTIVE CODES           :  72   55.00
+
+ERSATZTEILE
+- PREISSTAND             : 01.07.2021
+- ET-PREIS-DATUM MASTER  : 01.07.2021
+
+LACKIERUNG
+- REP-ART/LEIT-NR        : LE 1782    / LI 1482
+
+ANZAHL POSITIONEN
+- ERFASST                :      9
+- MUTATIONEN             :      3
+
+
+SCHLUSSKALKULATION
+  LOHN:    419.36 NEBEN:     76.09  LACK:    560.00  ET  :    848.64
+  REP :  1 904.09  MWST:    361.78  REPI:  2 265.87
+
+DETAIL-ERFASSUNGSDATEN   :
+I  1482        IM         5000N  1482        N  1520        D  0471   75
+DM 000000000004HM S           N  0471        SN 0471        E  1782
+H  1782
+D  9997  FINISH-ARBEITEN PRO Bauteil                   35
+HM 9997S
+                               SYSTEM AUDATEX
