@@ -64,7 +64,7 @@ app
      *          '400':
      *              description: 'file type invalid'
      */
-    .post('/upload', body('file').notEmpty(), uploadGeneratePdf)
+    .post('/upload', body('file'), uploadGeneratePdf)
     /**
      * @swagger
      * /:

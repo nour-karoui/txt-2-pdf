@@ -10,7 +10,7 @@ const createError  = require('http-errors');
  */
 const textToPdf = async (metaData, filePath) => {
     // save pageHeight to add a new page when reaching it
-    const pageHeight = 842;
+    const pageHeight = 840;
     const doc = new jsPDF();
 
     doc

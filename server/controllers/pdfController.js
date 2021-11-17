@@ -20,14 +20,7 @@ const generatePdfController = async (req, res) => {
     res.status(200).json({response});
 }
 
-/**
- * checks whether the file is valid, uploads it in /uploads folder, generates pdf and deletes the file.
- * @param req {Express.Request}
- * @param  req.body {file: file, [key: string]: string}
- * @param res {Express.Response}
- * @return {Promise<{response: string}>}
- */
-const uploadGeneratePdf = (async (req, res) => {
+const uploadGeneratePdf = async (req, res) => {
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
         return res.status(400).json({ errors: errors.array() });
@@ -56,12 +49,11 @@ const uploadGeneratePdf = (async (req, res) => {
         try {
             fs.unlinkSync(filepath)
         } catch(err) {
-            res.status(500).json({error: err})
+            res.status(500).json({errors: err})
         }
-
         res.status(200).json({response});
     })
-})
+}
 
 module.exports = {
     generatePdfController,

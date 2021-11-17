@@ -12,7 +12,7 @@ describe('can generate a pdf', () => {
         status = result.status;
         const response = JSON.parse(result.text);
 
-        expect(response.response).toEqual("service established");
+        expect(response.response).toEqual("PDF generated");
         expect(status).toEqual(200);
     });
 });
@@ -30,7 +30,7 @@ describe('can upload a file, generate pdf and delete the uploaded file', () => {
         const files = await fs.readdirSync('uploads');
 
         expect(files.length).toEqual(0);
-        expect(response.response).toEqual("service established");
+        expect(response.response).toEqual("PDF generated");
         expect(status).toEqual(200);
     });
 
